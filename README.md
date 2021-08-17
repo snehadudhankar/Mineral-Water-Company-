@@ -2,9 +2,10 @@
 📌Front-End Technology: HTML, CSS, JavaScript, Boostrapp 5.0.2
 ✔ Full Responcive Site💻
 
-![screencapture-snehadudhankar-github-io-Mineral-Water-Company-index-html-2021-08-18-00_45_58](https://user-images.githubusercontent.com/69719656/129787195-410948fd-b7bf-4529-9a01-9036e92d452d.png)
+![screencapture-snehadudhankar-github-io-Mineral-Water-Company-index-html-2021-08-18-01_09_47](https://user-images.githubusercontent.com/69719656/129789857-717a71a9-b806-4ef5-bb3b-06546657128d.png)
+
 📱Mobile View 👇
 
-![screencapture-snehadudhankar-github-io-Mineral-Water-Company-index-html-2021-08-18-00_47_40](https://user-images.githubusercontent.com/69719656/129787646-4762a31f-9036-4b22-837d-ec3e22d23687.png)
+![screencapture-snehadudhankar-github-io-Mineral-Water-Company-index-html-2021-08-18-01_12_00](https://user-images.githubusercontent.com/69719656/129790027-e8aa44d0-951f-405f-9ff1-9e21718d4479.png)
 
 
